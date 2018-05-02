@@ -6,9 +6,25 @@
     <description>Recent content in Archive on Hraj Ascension!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Tue, 01 May 2018 12:57:24 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 02 May 2018 07:54:28 +0200</lastBuildDate>
     
 	<atom:link href="https://lostpeanut.github.io/hugo-start/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ascension: Year One Collector&#39;s Edition</title>
+      <link>https://lostpeanut.github.io/hugo-start/post/prispevek/</link>
+      <pubDate>Wed, 02 May 2018 07:54:28 +0200</pubDate>
+      
+      <guid>https://lostpeanut.github.io/hugo-start/post/prispevek/</guid>
+      <description>Ascension: Year One Collector&amp;rsquo;s Edition &amp;ldquo;Ascension: Year One Collector&amp;rsquo;s Edition&amp;rdquo; je sběratelskou edicí obsahující všech 346 karet. Karty mají nové rámečky s povrchovou úpravou z prémiové fólie a patří mezi &amp;ldquo;top&amp;rdquo; sběratelský kousek v jakékoli Ascencion kolekci.
+Tato sada zahrnuje:
+1. Chronicle of the Godslayer
+2. Ascension: Return of the Fallen King
+3. Rat King Theme Pack, Rat Queen Theme Pack
+4. Samael Claus Theme pack
+5. Leprechaun Theme Pack and the entire first year of promo cards!</description>
+    </item>
     
     <item>
       <title>Testujeme Ascension: Deckbuilding Game na Steame</title>
@@ -34,7 +50,6 @@ Zdroje, ktoré využijeme:
     </item>
     
     <item>
-
       <title>Team</title>
       <link>https://lostpeanut.github.io/hugo-start/post/team/</link>
       <pubDate>Sun, 01 Apr 2018 13:21:27 +0200</pubDate>
