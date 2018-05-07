@@ -22,6 +22,7 @@ a, a:visited {
 
 header h1 {
   text-transform:uppercase;
+  text-decoration-line: overline underline;
 }
 
 a:hover {
@@ -33,7 +34,11 @@ header {
   padding: 30px;
   border-bottom: solid;
   border-width: 1px;
-  background-color: FireBrick;
+  background-image: url("https://ksr-ugc.imgix.net/assets/011/475/340/7e10dedfae55c7311716585646c73a27_original.png?crop=faces&w=1552&h=873&fit=crop&v=1463683221&auto=format&q=92&s=218cab6bef8345ab9995ea7e9dc4b833"), url("https://i.ytimg.com/vi/pk9RtrydWGs/maxresdefault.jpg");
+  background-size: 450px 250px, 700px 400px;
+  background-repeat: no-repeat, no-repeat;
+  background-position: right bottom, left; 
+  height: 180px;
   border-radius: 7px;
   border-color:grey;
 }

@@ -15,6 +15,6 @@ menu:
       weight: 20
 
 params:
-  description: Description of my new site.
-  authors: Authors
+  description: Naša stránka sa zaoberá stolnou hrou Ascension. Poďte si zahrať s nami!
+  authors: Majka, Vendy, Verča
 
