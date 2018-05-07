@@ -22,4 +22,4 @@ Navyše mám super spolupracovníčky, takže je to o to väčšia sranda!
 
 ### Veronika Vobořilová
 
-Každý člověk by si měl někdy odpočinout od práce. K tomu se hodí karetní hra. Chceme ukázat hru Ascension českému hráči.
+Karetní hry jsou super! :-)
